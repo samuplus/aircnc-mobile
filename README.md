@@ -55,7 +55,7 @@ AirCnC is a pet project developed to connect companies with developers. Companie
 
 ## 🔖 Reference and Layout
 
-This project was developed with online assistance from Diego Fernandes from Rocketseat.com.br. The concept and development plan was created by the Rocketseat team and the clone was developed during a week-long online tutorial video series called "Semana Omnistack". 
+This project was developed with online assistance from Diego Fernandes from Rocketseat.com.br. The concept and development plan was created by the Rocketseat team and the clone was developed during a week-long online tutorial video series called "Semana Omnistack".
 This project was developed for study purposes only and it contains my own modifications to enhance its functionalities, such as image upload limits and validation, image storage in AWS S3, and spot deletion.
 
 The layout in `.sketch` format can be found [here](https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/semana-omnistack/aircnc.sketch).
